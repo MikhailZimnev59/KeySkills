@@ -1,0 +1,102 @@
+Linux, Git, REST, OpenCV
+table data, automl, catboost, scikit-learn, seaborn, flask, fastapi, docker
+Gamedev, SQL,Tableau,Data Analysis,Анализ данных,Визуализация данных,Математическая статистика
+Английский,Git,PostgreSQL,SQL,MySQL,NoSQL,Kubernetes,Kafka,REST API,Docker,Design Patterns
+MySQL,Git,SOAP,REST API,Qt,Unix
+Docker,PostgreSQL,Работа в команде
+ООП,C++,Математический анализ,Алгоритмы
+Английский,SQL,pandas,A/B тесты,Jupiter,ClickHouse,Поисковые системы,Аналитика,Интернет-магазины,Алгоритмы и структуры данных
+Git,Linux,ООП
+SQL,Tableau,Анализ данных
+SQL,DWH,ETL,Apache Airflow,PostgreSQL
+Linux,Docker,PostgreSQL,RabbitMQ,REST API
+PostgreSQL,Django,Linux,Redis,Celery,Kafka,Multithreading,Clickhouse
+Linux,MySQL,Nginx,SQL,PostgreSQL,RabbitMQ,Bash,Git
+Data Mining,SQL,Pyspark,Hadoop,Hive,Spark,PyTorch,Agile
+PostgreSQL,Linux,Docker,Git,Django Framework,FastAPI,Flask
+Tableau,SQL,Power BI,Управление проектами,Проведение презентаций,Data Analysis,Qlik
+Django Framework,Data Mining,PostgreSQL,SQL,Airflow,MySQL,Ansible,Docker,Helm,Kubernetes
+Flask,OpenStack,Linux,Git,CI/CD
+RPA,Английский,Scrum,SQL,Управление проектами
+C/C++,Git,OpenCV,Компьютерное зрение,computer vision,ЦОС,Keras,TensorFlow,ML,Deep Learning,Deep Reinforcement Learning,Computer Vision,Scikit-Learn
+UML,SQL,BPMN,Английский,Apache Nifi,Apache Airflow,MS SSIS
+MS SQL Server,СУБД,Ubuntu,PostgreSQL,Linux,Unix,Базы данных,Kubernetes,ORACLE
+PostgreSQL,Django Framework,Flask,asyncio,MongoDB
+JavaScript,Vue.js,Киберполигон
+Linux,Проведение тестирований,Планирование карьеры,Wireshark,сетевые технологии,Подбор персонала,Обучение и развитие,Мотивация персонала
+Git,PostgreSQL,СУБД,ClickHouse,GreenPlum,Airflow,RabbitMQ,Docker,SQL
+Git,Django Framework,MySQL,PostgreSQL
+Английский,Elixir
+SQL,Pandas,Numpy,ClickHouse,A/B тесты
+Git,Redis,PostgreSQL,RabbitMQ
+Английский,SQL,MS SQL Server,MS SQL,SQL Server,ETL,DWH,Power BI,BI,Tableau,Работа с базами данных,Data Lakes,Databases,SSRS,SSIS,SSAS
+SQL,Java,SCALA,Pandas,ML
+SQL,Git,Atlassian Confluence,Atlassian Jira
+Linux
+Linux,Django Framework,Flask
+SQL,ITIL,Информационные технологии,Английский
+Go,Golang
+Английский,Git,SQL,Linux,MySQL,ООП,Telegram,PostgreSQL,Оптимизация кода,Оптимизация запросов,aiohttp,Redis,aiogram,TelegramBotApi
+Golang,Celery,Docker,JavaScript,RabbitMQ,Elasticsearch,Redis,PostgreSQL,MongoDB,Django,Nginx,Kubernetes
+C++,Базы данных,Data Mining,SQL
+Docker,Управление проектами,Teamleading,Обучение и развитие,Ориентация на результат,Java,Golang,.NET Framework,Frontend,мобильная разработка,iOS,Android
+PostgreSQL,Google BigQuery,ClickHouse,Kubernetes,Atlassian Jira,Анализ данных,Разработка ПО
+SQL,XML,Системный анализ,Системное мышление
+SQL,ITIL,Информационные технологии,Английский язык
+SQL,ООП,Обучение и развитие,DWH,Tableau
+Английский,Информационные технологии,Разработка компьютерных Игр
+PostgreSQL,Git,SQL,MS SQL
+Linux,Английский язык,Computer vision,OpenCV
+Git,Django Framework,SQL,PostgreSQL
+SQL,SciPy,Mathematical Statistics,Грамотность
+Английский,Разработка ПО,Моделирование,Имитационное моделирование,SCADA,PyCharm,PyQt
+Linux,Git,REST API,OpenCV
+Git,Linux,SQL,Bash
+SQL,Tableau,Анализ данных,Английский
+Git,Redis,Django Framework,asyncio,RabbitMQ,Kafka,Высоконагруженные системы,PostgreSQL
+SQL,ITIL,Информационные технологии,Английский
+Английский,Информационные технологии,Разработка компьютерных Игр
+C++,Linux,SQL
+Docker,PostgreSQL,k8s
+Tensorflow,OpenCV,PyTorch,Computer Vision,Deep Learning,Machine Learning
+SQL,MS SQL
+Git,PostgreSQL,Docker,Django Framework
+SQL,A/B тесты
+Celery,Docker,JavaScript,RabbitMQ,Elasticsearch,Redis,PostgreSQL,MongoDB,Django,Nginx,Kubernetes
+Django Framework
+Git,docker,Linux,Bash,MySQL,Redis
+SQL,PostgreSQL,Linux,js,CSS,HTML,Angular,ExtJS,Английский
+SQL,MS PowerPoint,Анализ данных,R,Google Analytics,AppsFlyer,Data Studio
+Linux,Django Framework
+SQL,ITIL,Информационные технологии,Английский
+PostgreSQL,SQL
+математика,искусственный интеллект
+Linux,Анализ данных,Clickhouse
+Git,ООП,Boost,C++,Qt,GoogleTest,Python unittest,PyTest
+ООП,HTTP,Git
+SCALA,Spark,SQL,Git
+Git,Django Framework,MongoDB,PostgreSQL,SQL,Docker,SOAP
+SQL,Machine Learning,Pandas,Deep Learning,алгоритмы
+SQL,Математическая статистика
+Linux,Django Framework,Flask
+SQL,DWH,Hadoop
+MS SQL,MS Access,Аналитическое мышление
+Linux,Bash,ООП
+MapReduce,FastAPI,Falcon,PostgreSQL
+SCALA,Spark,Hadoop,Java,Big Data,Английский
+Git,Redis,Django Framework,asyncio,RabbitMQ,Kafka,Высоконагруженные системы,PostgreSQL
+PostgreSQL,SQL,Linux,Git,ARM
+API,FastAPI,DRF,Django Framework,SQL
+PostgreSQL,Git,Django Framework,Работа в команде
+SQL,Обучение и развитие,Hive,Управление временем
+Финансовое моделирование,MS PowerPoint,Анализ данных
+PostgreSQL,ETL,Power BI,Clickhouse
+SQL,Математическая статистика
+SQL,Английский,IDEF,Грамотная речь
+Git,Linux,Английский,ООП,NLP
+SQL,PostgreSQL,Linux,Git
+SQL,MS SQL,Анализ данных,Big Data,Data Analysis
+PostgreSQL,Django Framework,Flask,asyncio,MongoDB
+SQL,Django Framework
+Git,Английский,SQL,Adobe Photoshop,asyncio,Aiohttp,Docker,FastAPI
+Информационные технологии,Английский
