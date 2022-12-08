@@ -3,9 +3,8 @@
 import matplotlib.pyplot as plt
 
 ss = []
-#ddd = 'C:/30_Python/keys/'
-ddd = ''
-with open(ddd + 'key_skills.txt', encoding = 'utf-8') as fi, open(ddd + 'result_keys.txt', 'w', encoding = 'utf-8') as fo:
+
+with open('key_skills.txt', encoding = 'utf-8') as fi, open('result_keys.txt', 'w', encoding = 'utf-8') as fo:
     d = {}
     total, hm = 0, 0
     for s in fi:
