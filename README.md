@@ -1,1 +1,1 @@
-To estimate what skills are requested to Python developers
+To estimate what skills are requested from Python developers
