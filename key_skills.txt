@@ -100,3 +100,7 @@ PostgreSQL,Django Framework,Flask,asyncio,MongoDB
 SQL,Django Framework
 Git,Английский,SQL,Adobe Photoshop,asyncio,Aiohttp,Docker,FastAPI
 Информационные технологии,Английский
+Git,Linux,PostgreSQL,Flask,Английский
+Redis,fastApi,sqlalchemy,redis-OM,pydantic,aiohttp,REST,GitlabCIKubernetes
+PostgreSQL,Linux,SaaS,Information Security
+Git,PostgreSQL,MongoDB,SQL
