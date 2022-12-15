@@ -104,3 +104,30 @@ Git,Linux,PostgreSQL,Flask,Английский
 Redis,fastApi,sqlalchemy,redis-OM,pydantic,aiohttp,REST,GitlabCIKubernetes
 PostgreSQL,Linux,SaaS,Information Security
 Git,PostgreSQL,MongoDB,SQL
+С++,GUI
+PostgreSQL,Django Framework,Linux,JavaScript,Английский
+SQL,deep learning,ML
+SQL,Machine Learning
+PyTorch,Spark,Hadoop,Java,SCALA,Машинное обучение
+Django Framework,Data Mining,PostgreSQL,SQL,Airflow,MySQL,Ansible,Docker,Helm,Kubernetes
+Agile,Project Management,Управление проектами,Scrum,Проведение презентаций,Agile,Kanban,Data Science,ML,Разработка продукта,Аналитика,Ведение переговоров,Работа с большим объемом информации
+Разработка ПО,Моделирование,Имитационное моделирование,Английский,SCADA,PyCharm,PyQt
+SQL,MS SQL,Английский,PostgreSQL
+NLP,PyTorch,Tensorflow,Английский,NER,Text2SQL,Digital
+Adobe Photoshop,SQL,Управление проектами,Английский,Машинное обучение,PostgreSQL,Работа в команде,FFmeg,VAEX,RESTAPI
+Django Framework,SQL,PostgreSQL,MySQL
+MATLAB,Математическое моделирование,C/C++
+Django Framework,PostgreSQL,Redis,Git
+Git,Linux,Docker,Английский
+SQL,Tableau,Looker,AB-тесты,когортный анализ
+C++,Базы данных,Data Mining,SQL
+PostgreSQL,Django Framework,Linux,Redis,Celery,Kafka,Multithreading,Clickhouse
+SQL,Анализ данных,Аналитическое мышление,Статистический анализ
+SQL,Анализ данных,Аналитическое мышление,Аналитика
+HTML,SQL,Базы данных,Google Analytics,Яндекс.Метрика,Amplitude,Airflow
+SQL,Django Framework,Git,MongoDB,REST,Unix,Linux,Веб-программирование,Nginx,Cистемы управления базами данных,Гибкость,React,Английский
+SQL,Запуск новых продуктов,Аналитическое мышление,Power BI,Tableau
+Git,JavaScript,Django Framework,asyncio,Elasticsearch,Celery,Django
+PyTorch,OpenCV,Computer Vision,Git,Bash,Docker,Математическое моделирование,C++,Английский
+PostgreSQL,Odoo,Git,Linux,Работа в команде,Английский
+Умение принимать решения,Базы данных,Pandas,SQL,Python,Numpy,A/B тесты
