@@ -131,3 +131,12 @@ Git,JavaScript,Django Framework,asyncio,Elasticsearch,Celery,Django
 PyTorch,OpenCV,Computer Vision,Git,Bash,Docker,Математическое моделирование,C++,Английский
 PostgreSQL,Odoo,Git,Linux,Работа в команде,Английский
 Умение принимать решения,Базы данных,Pandas,SQL,Python,Numpy,A/B тесты
+Git,Linux,SQL,Bash
+SQL,Hadoop,Teradata,Spark,Hive,Анализ данных,Agile Project Management,Big Data
+Английский,PostgreSQL,Управление проектами,Erlang,SQL,Управление процессами,Elasticsearch,Kafka,Teamleading
+Tableau,SQL,Английский,Анализ данных,MS Excel
+SQL,Математическая статистика
+MS SQL,Linux
+SQL,Data Analysis,R,MATLAB,Machine Learning,Нейронные сети
+Git,Linux,C++,STL
+Tensorflow,SQL,Machine Learning,Git

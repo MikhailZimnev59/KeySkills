@@ -9,6 +9,7 @@ if __name__ == '__main__':
         print("2. Matplotlib")
         print("3. Seaborn")
         print("4. Статистика в файл")
+        print("5. Поиск")
         print("0. Выход")
         x = 0
         try:
@@ -21,4 +22,5 @@ if __name__ == '__main__':
             case 2: keys_1.plot_matplotlib()
             case 3: keys_1.plot_seaborn()
             case 4: keys_1.stat_file()
+            case 5: keys_1.search()
             case 0: break

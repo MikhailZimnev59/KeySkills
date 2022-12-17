@@ -1,14 +1,14 @@
 ''' Counting key skills from vacancy requests and summarise them'''
 
 import matplotlib.pyplot as plt
+
 d = {}
 top20 = {}
+ss = []
 def stat():
     ''' To count statitic of skills frequency '''
 
-    ss = []
     with open('key_skills.txt', encoding = 'utf-8') as fi:
-        #d = {}
         total, hm = 0, 0
         for s in fi:
             if s.strip() == '': continue
@@ -47,15 +47,9 @@ def stat():
                     if i not in d:
                         d[i] = [0, ii.strip()]
                     d[i][0] = d[i][0] + 1
-        #top20 = {}
         for i in sorted(d, key=lambda x: (-d[x][0], d[x][1]))[:20]:
             top20[d[i][1]] = d[i][0]
         return hm, total
-        #for j, i in enumerate(sorted(d, key=lambda x: (-d[x][0], d[x][1])), 1):
-        #    print(f"{j:>3} {d[i][1]:<28} {d[i][0]:>3} {round(d[i][0] / total, 4):6.2%}")
-        #    if j % 10 == 0:
-        #        pass
-        #        input("-------------")
 
 def stat_file():
     ''' To count statitic of skills frequency and to write results to file'''
@@ -101,10 +95,11 @@ def stat_file():
                     if i not in d:
                         d[i] = [0, ii.strip()]
                     d[i][0] = d[i][0] + 1
+        print('Start to write')
+        for j, i in enumerate(sorted(d, key=lambda x: (-d[x][0], d[x][1])), 1):
+            #print(f"{j:>3} {d[i][1]:<28} {d[i][0]:>3} {round(d[i][0] / total, 4):6.2%}", )
+            print(f"{j:>3} {d[i][1]:<28} {d[i][0]:>3} {round(d[i][0] / total, 4):6.2%}", file=fo)
 
-        #top20 = {}
-        #for i in sorted(d, key=lambda x: (-d[x][0], d[x][1]))[:20]:
-        #    top20[d[i][1]] = d[i][0]
 
 def stat_to_screen():
     ''' function of displaing result to screen'''
@@ -112,7 +107,6 @@ def stat_to_screen():
     hm, total = stat()
     print(f"Всего вакансий = {hm}, из них уникальных = {total}")
     input("-------------")
-    print('Start to write')
     for j, i in enumerate(sorted(d, key=lambda x: (-d[x][0], d[x][1])), 1):
         print(f"{j:>3} {d[i][1]:<28} {d[i][0]:>3} {round(d[i][0] / total, 4):6.2%}")
         if j % 10 == 0:
@@ -124,13 +118,13 @@ def plot_matplotlib():
 
     import matplotlib.pyplot as plt
     import pandas as pd
-    #top20 = {'SQL': 24, 'PostgreSQL': 18, 'Git': 15, 'Linux': 13, 'Английский': 10, 'docker': 9, 'Django Framework': 8, 'MySQL': 6, 'ClickHouse': 5, 'Kubernetes': 5, 'RabbitMQ': 5, 'Tableau': 5, 'flask': 5, 'Apache Airflow': 4, 'Redis': 4, 'ООП': 4, 'C/C++': 3, 'DWH': 3, 'Data Mining': 3, 'Golang': 3}
+
+    if not top20: stat()
     dind = sorted(top20.keys(), key=lambda x: (top20[x], x))
     df = pd.Series(top20, index=dind)
-    #print(df)
     df.plot(kind='barh')
     plt.show()
-    input('more?')
+    #input('more?')
 
 
 def plot_seaborn():
@@ -138,11 +132,36 @@ def plot_seaborn():
     import matplotlib.pyplot as plt
     import seaborn as sns
 
+    if not top20: stat()
     y = list(top20.values())
     x = list(top20.keys())
 
     sns.barplot(x=y, y=x)
     plt.show()
-    input('more?')
+    #input('more?')
+
+def search():
+    ''' The search of strings (vacancies) which have all substring divided by commas '''
+
+    if not ss: stat()
+    while True:
+        x = input('Введите подстроки, разделенные запятыми:')
+        if x == '': break
+        y = x.lower().strip().split(',')
+        hm = 0
+        for i in ss:
+            j = i.lower()
+            yn = True
+            for z in y:
+                if z.strip() not in j:
+                    yn = False
+                    break
+            if yn:
+                hm += 1
+                print(hm, i.strip())
+        print()
+        print(f'Найдено {hm} из {len(ss)}')
+    return
+
 
 
