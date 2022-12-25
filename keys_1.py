@@ -7,7 +7,10 @@ top20 = {}
 ss = []
 def stat():
     ''' To count statitic of skills frequency '''
-
+    global d, top20, ss
+    d = {}
+    top20 = {}
+    ss = []
     with open('key_skills.txt', encoding = 'utf-8') as fi:
         total, hm = 0, 0
         for s in fi:
@@ -95,10 +98,11 @@ def stat_file():
                     if i not in d:
                         d[i] = [0, ii.strip()]
                     d[i][0] = d[i][0] + 1
-        print('Start to write')
+        print('Start writing')
         for j, i in enumerate(sorted(d, key=lambda x: (-d[x][0], d[x][1])), 1):
             #print(f"{j:>3} {d[i][1]:<28} {d[i][0]:>3} {round(d[i][0] / total, 4):6.2%}", )
             print(f"{j:>3} {d[i][1]:<28} {d[i][0]:>3} {round(d[i][0] / total, 4):6.2%}", file=fo)
+        print('The end')
 
 
 def stat_to_screen():
@@ -110,7 +114,9 @@ def stat_to_screen():
     for j, i in enumerate(sorted(d, key=lambda x: (-d[x][0], d[x][1])), 1):
         print(f"{j:>3} {d[i][1]:<28} {d[i][0]:>3} {round(d[i][0] / total, 4):6.2%}")
         if j % 10 == 0:
-            input("-------------")
+            x = input("---->"
+                      "")
+            if x == '0': break
     print("-------------")
     return
 def plot_matplotlib():

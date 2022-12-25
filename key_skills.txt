@@ -140,3 +140,44 @@ MS SQL,Linux
 SQL,Data Analysis,R,MATLAB,Machine Learning,Нейронные сети
 Git,Linux,C++,STL
 Tensorflow,SQL,Machine Learning,Git
+MySQL,PostgreSQL,PHP,JavaScript,HTML,CSS,drupal,Symfony
+Linux,Git,SQL,PostgreSQL
+Git,Django Framework,Английский,Linux
+highload,Big Data,Алгоритмы,RabbitMQ,MS SQL,ORACLE,PostgreSQL
+Git,Linux,Django Framework,SQL,MySQL,ClickHouse,Docker,Django Rest Framework,REST API,Backend
+SQL,HTML,Английский,CSS
+Git,SQL,Linux,MySQL,ООП,Telegram,PostgreSQL,Оптимизация кода,Оптимизация запросов,aiohttp,Redis,aiogram,TelegramBotApi,Английский
+Gamedev,SQL,Tableau,Data Analysis,Анализ данных,Визуализация данных,Математическая статистика
+Git,Linux,SQL,Управление проектами
+C++,Разработка компьютерных Игр
+Linux,PostgreSQL,Flask,Redis,Docker
+Golang,Git,Linux,ClickHouse,MySQL,Go,Prometheus,Grafana,Docker,Удаленная работа,SQL,Английский
+SQL,CI/CD,Linux
+SQL,Linux,PostgreSQL,Django Framework,Django,Docker,React.js,Оптимизация кода,Работа в команде
+SQL,Git,Unix
+SQL,Английский
+Английский
+SQL,Tableau,Анализ данных
+PostgreSQL,Redis,Flask,RabbitMQ
+Git,Linux,ООП
+Java,SQL,Git,Базы данных,ETL,Greenplum,СУБД,DWH
+Аналитика,Анализ данных,Clickhouse,SQL,gamedev,Data Analysis,game analytics
+PostgreSQL,Docker,Django Framework,Linux,Rest API,MongoDB,RabbitMQ,CI/CD,Elixir
+Java,REST,API,HTTP,Telegram Bot API,Kotlin,SQL
+PostgreSQL,Git,SQL
+Linux,SDET,Pytest
+Английский,Linux,Работа с базами данных,C++
+Git,Redis,PostgreSQL,SQL,Kafka,ElascticSearch,ClickHouse,API
+SQL,Linux,PostgreSQL,Git
+PostgreSQL,ArcGIS,SQL,Pandas,Базы данных,NoSQL БД,RabbitMQ,Flask,PostGIS
+SQL,Numpy,Pandas,Linux,PostgreSQL,MongoDB,Matplotlib,SQLAlchemy,Базы данных
+PostgreSQL,SQL,Git,Linux,Docker
+SQL,Анализ данных,Английский,MS PowerPoint
+Проведение опросов клиентов,Навыки публичных выступлений,Работа с документацией,Линейное программирование
+Olap (online analytical processing),Tableau,Работа с базами данных,ClickHouse,Linux,Ubuntu Server,SQL,MS PowerBl,Apache NiFi,Apache Airflow 2.0,PostgreSQL
+PostgreSQL,Django Framework,Docker,aiohttp,Redis,RabbitMQ,Rest API
+SQL,Airflow,PySpark,Data Engineering,Databricks,Docker,Bash
+PyTorch,OpenCV,Linux,Computer Vision
+ML,data science,Numpy,Анализ данных,Machine Learning,Pandas,Математическая статистика
+Git,PostgreSQL,СУБД,ClickHouse,GreenPlum,Airflow,RabbitMQ,Docker,SQL
+Git,PostgreSQL,SQL,MySQL,NoSQL,Kubernetes,Kafka,REST,Docker,Design Patterns,Английский
