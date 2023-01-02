@@ -181,3 +181,39 @@ PyTorch,OpenCV,Linux,Computer Vision
 ML,data science,Numpy,Анализ данных,Machine Learning,Pandas,Математическая статистика
 Git,PostgreSQL,СУБД,ClickHouse,GreenPlum,Airflow,RabbitMQ,Docker,SQL
 Git,PostgreSQL,SQL,MySQL,NoSQL,Kubernetes,Kafka,REST,Docker,Design Patterns,Английский
+Redis,Linux,Grafana,prometheus,jaeger,ffmpeg,Celery,ClickHouse,AMQP,asyncio,SQL,Kafka,RabbitMQ,Redis as broker,PostgreSQL
+JavaScript,Vue.js,Киберполигон
+Linux,Docker,СУБД,PostgreSQL,RabbitMQ,REST API
+Linux,MySQL,Nginx,SQL,PostgreSQL,RabbitMQ,Bash,Git
+PostgreSQL,Google BigQuery,ClickHouse,Kubernetes,Atlassian Jira,Анализ данных,Разработка ПО
+SQL,Linux,Информационные технологии,MATLAB
+Docker,Linux,PostgreSQL,Английский
+Spark,PostgreSQL,Hadoop,ClickHouse,Kubernetes,Docker,Big Data,Kafka,golang
+Spark,Hadoop,Java,PyTorch,Tensorflow,Big Data,SCALA,Нейронные сети,ML
+Git,Redis,PostgreSQL,RabbitMQ
+Linux,Тестирование
+SQL,R,A/B тесты,PowerBI,QlikView,Amplitude
+Spark,Hadoop,SCALA,Machine learning,Big Data,Cybersecurity
+Автоматизация тестирования
+Git,Postman,SoupUI,API,Тестирование,HTTP,Теория тестирования
+SQL,Pandas,Numpy,ClickHouse,A/B тесты
+Git,Linux,Jenkins,Английский
+Linux,SQL,Английский,ООП
+SQL,Java,Groovy,Helpdesk
+Английский,SQL,Грамотная речь,Power BI,DAX,SAP ERP
+Git,PostgreSQL,Linux
+Linux,Git,Docker,ООП,Bash
+SQL,ETL,Linux,Data Analysis,Google Cloud,DWH
+Linux,PostgreSQL,SQL
+PostgreSQL,SQL,Flask,Pytorch
+SQL,Tableau,Английский,Математическая статистика
+PostgreSQL,Linux,Git,SQL
+Git,Linux,Flask,SQL,kafka,Docker,ООП,Машинное обучение,Английский
+SQL,A/B тесты
+Django Framework,Data Mining,PostgreSQL,SQL,Airflow,MySQL,Ansible,Docker,Helm,Kubernetes,Английский
+SQL,Анализ данных
+SQL,PostgreSQL,Linux,js,CSS,HTML,Angular,ExtJS
+BPMN,UML,SQL,Моделирование бизнес процессов
+Linux,Bash,ООП
+Git,ООП,Boost,C++,Qt,GoogleTest,Python unittest,PyTest
+Linux,Django Framework,Flask
