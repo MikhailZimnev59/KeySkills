@@ -217,3 +217,14 @@ BPMN,UML,SQL,Моделирование бизнес процессов
 Linux,Bash,ООП
 Git,ООП,Boost,C++,Qt,GoogleTest,Python unittest,PyTest
 Linux,Django Framework,Flask
+Django Framework,MySQL,SQL,Flask,Готовность к командировкам
+MongoDB,AWS,Английский
+C++,Linux,SQL
+Django Framework,Git,Linux,Flask
+ООП,HTTP,Git
+RPA,Git,SQL,Atlassian Jira,.NET Framework,С#,PowerShell,Работа в команде,Наставничество
+Git,Django Framework,MongoDB,PostgreSQL,SQL,Docker,SOAP,API
+SQL,Аналитическое мышление,Clickhouse
+Git,Redis,Django Framework,asyncio,RabbitMQ,Kafka,Высоконагруженные системы,PostgreSQL,Английский
+PostgreSQL,Kubernetes,Redis,Asyncio
+
