@@ -227,4 +227,28 @@ Git,Django Framework,MongoDB,PostgreSQL,SQL,Docker,SOAP,API
 SQL,Аналитическое мышление,Clickhouse
 Git,Redis,Django Framework,asyncio,RabbitMQ,Kafka,Высоконагруженные системы,PostgreSQL,Английский
 PostgreSQL,Kubernetes,Redis,Asyncio
+Linux,Clickhouse,Hadoop
+B2B,Git,Flask
+SQL,ООП,Обучение и развитие,DWH,Tableau
+Linux,XML,C/C++,Администрирование серверов Linux,Системы контроля версий
+PostgreSQL,Django Framework,Flask,asyncio,MongoDB
+Linux
+PostgreSQL,Django Framework,Linux,JavaScript,Английский
+Git,PostgreSQL,MongoDB,SQL
+SQL,Математическая статистика
+PostgreSQL,Linux,Git,SQL
+C++,Windows Os,Git
+Django Framework,SQL,PostgreSQL,MySQL
+Git,SQL,Docker,Vue.js,PostgreSQL
+Git
+Английский язык
+Системная интеграция
+Информационные технологии
+Avaya Call Management Systems,Cisco,JavaScript,Genesys,typescript,Node.js
+Linux,ООП,Bash
+C,Unit Testing,Linux,Английский
+Linux,Git,PostgreSQL,Spark,Kubernetes
+Linux, PostgreSQL, OpenStack, KVM, Ansible, Kubernetes, Django, Celery
+Git,Atlassian Jira,Работа в команде
+SQL,MS SQL,Английский,PostgreSQL
 
